@@ -11,11 +11,7 @@
   <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Electron" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="picture" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/7f/7b/8b/7f7b8b1bbba092fddd1ddf5fac436f06.png?width=676&height=676">
+  <img align="right" alt="picture" height="150" style="border-radius: 10px;" src="https://c.tenor.com/9cDK26IA6toAAAAC/hello-penguin.gif?width=676&height=676">
 </div>
   
   ##
-  
-
-  ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
-

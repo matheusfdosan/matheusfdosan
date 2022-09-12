@@ -11,7 +11,5 @@
   <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Electron" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="picture" height="150" style="border-radius: 10px;" src="https://c.tenor.com/9cDK26IA6toAAAAC/hello-penguin.gif?width=676&height=676">
 </div>
-  
-  ##
+ 

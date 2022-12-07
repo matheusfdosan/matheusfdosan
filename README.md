@@ -6,7 +6,7 @@
 
 ## 👨🏻‍💻 About Me
 
-Hello, my name is Matheus Faustino, I'm 15 years old, from Brazil, currently attending the 9th grade of elementary school. I started studying this area when I was 14 years old, this interest grew out of a series called Mr. Robot, which got me interested in computers.
+Hello, my name is Matheus Faustino, I'm 15 years old, from Brazil, currently attending the 1st year of high school. I started studying this area when I was 14 years old, this interest grew out of a series called Mr. Robot, which got me interested in computers.
 
 <h2> 📚 &nbsp;Learning</h2>
 

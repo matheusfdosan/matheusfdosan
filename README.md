@@ -3,6 +3,10 @@
 <a href="https://instagram.com/matheusfdosan"><img src="https://img.shields.io/badge/-@matheusfdosan_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/matheus-faustino-92841a22a/"><img src="https://img.shields.io/badge/-Matheus%20Faustino-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 
+<a href="https://github.com/matheusfdosan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusfdosan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfdosan&layout=compact&langs_count=7&theme=dark"/>
+</a>
 
 ## 👨🏻‍💻 About Me
 
@@ -25,6 +29,4 @@ Hello, my name is Matheus Faustino, I'm 15 years old, from Brazil, currently att
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E535AB)
 
-<a href="https://github.com/matheusfdosan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusfdosan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
-</a>
+

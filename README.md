@@ -30,3 +30,4 @@ Hello, my name is Matheus Faustino, I'm 15 years old, from Brazil, currently att
 ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E535AB)
 
 
+![snake gif](https://github.com/matheusfdosan/matheusfdosan/blob/output/github-contribution-grid-snake.svg)

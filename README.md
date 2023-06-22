@@ -10,7 +10,7 @@
 
 ## 👨🏻‍💻 About Me
 
-Hello, my name is Matheus Faustino, I'm 15 years old, from Brazil, currently attending the 1st year of high school. I started studying this area when I was 14 years old, this interest grew out of a series called Mr. Robot, which got me interested in computers.
+Hello, my name is Matheus Faustino, I'm 16 years old, from Brazil, currently attending the 1st year of high school. I started studying this area when I was 14 years old, this interest grew out of a series called Mr. Robot, which got me interested in computers.
 
 <h2> 📚 &nbsp;Learning</h2>
 
@@ -21,7 +21,7 @@ Hello, my name is Matheus Faustino, I'm 15 years old, from Brazil, currently att
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
 
 <h3>⚙️ &nbsp;Back-end and Database:</h3>

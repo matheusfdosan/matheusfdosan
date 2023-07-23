@@ -1,23 +1,31 @@
-# 👋 Hi there!
+<h1 align="center">E aí 👋, sou Matheus Faustino</h1>
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F86B92&width=435&lines=Opa,+como vai vc hoje?;Seja+bem-vindo(a)+ao+meu+perfil;Por+enquanto,+estou+só+nos+estudos;Mas+estou+sempre+tentando+melhorar+😉" alt="Typing SVG" />
+  </a>
+</h3>
 
-<a href="https://instagram.com/matheusfdosan"><img src="https://img.shields.io/badge/-@matheusfdosan_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/matheus-faustino-92841a22a/"><img src="https://img.shields.io/badge/-Matheus%20Faustino-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<hr>
 
-<a href="https://github.com/matheusfdosan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfdosan&layout=compact&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusfdosan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</a>
+<div align="center">
+  <a href="https://github.com/matheusfdosan">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusfdosan&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfdosan&layout=compact&theme=dracula"/>
+  </a>
+</div>
 
-## 👨🏻‍💻 About Me
+<hr>
 
-Hello, my name is Matheus Faustino, I'm 16 years old, from Brazil, currently attending the 1st year of high school. I started studying this area when I was 14 years old, this interest grew out of a series called Mr. Robot, which got me interested in computers.
-
-<h2>💻 &nbsp;My techs:</h2>
-
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwindcss)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+<div align="center">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">&nbsp;
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" alt="CSS3">&nbsp;
+  <img src="https://img.shields.io/badge/-SASS-cc6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS">&nbsp;
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">&nbsp;
+  <br>
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=121212" alt="JavaScript">&nbsp;
+  <img src="https://img.shields.io/badge/-React-06b6d4?style=for-the-badge&logo=react&logoColor=white" alt="React">&nbsp;
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">&nbsp;
+  <br>
+  <img src="https://img.shields.io/badge/-Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="Git">&nbsp;
+  <img src="https://img.shields.io/badge/-Github-232323?style=for-the-badge&logo=github&logoColor=white" alt="Github">&nbsp;
+</div>

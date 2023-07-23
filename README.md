@@ -1,7 +1,7 @@
 <h1 align="center">E aí 👋, sou Matheus Faustino</h1>
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F86B92&width=435&lines=Opa,+como vai vc hoje?;Seja+bem-vindo(a)+ao+meu+perfil;Por+enquanto,+estou+só+nos+estudos;Mas+estou+sempre+tentando+melhorar+😉" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F86B92&width=445&lines=Opa,+como+vai+vc+hoje?+👍;Seja+bem-vindo(a)+ao+meu+perfil;Por+enquanto,+estou+só+nos+estudos+📚;Mas+estou+sempre+tentando+melhorar+😉" alt="Typing SVG" />
   </a>
 </h3>
 

@@ -21,5 +21,3 @@ Hello, my name is Matheus Faustino, I'm 16 years old, from Brazil, currently att
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-
-![snake gif](https://github.com/matheusfdosan/matheusfdosan/blob/output/github-contribution-grid-snake.svg)

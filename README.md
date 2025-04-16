@@ -1,6 +1,8 @@
 <h1>E aí 👋, sou Matheus Faustino</h1>
 <h3>
-[![Typing SVG]([https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=445&lines=Olá,+como+vai+vc+hoje?+👍;Seja+bem-vindo(a)+ao+meu+perfil;Por+enquanto,+estou+só+nos+estudos+📚;Mas+estou+sempre+tentando+melhorar+😉))](https://git.io/typing-svg)
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=445&lines=Olá,+como+vai+vc+hoje?+👍;Seja+bem-vindo(a)+ao+meu+perfil;Por+enquanto,+estou+só+nos+estudos+📚;Mas+estou+sempre+tentando+melhorar+😉)](https://git.io/typing-svg)
+
 </h3>
 
 <hr>

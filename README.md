@@ -34,9 +34,7 @@
   <img src="https://img.shields.io/badge/-Github-232323?style=for-the-badge&logo=github&logoColor=white" alt="Github">
 </div>
 
-<br>
-
-![snake game](https://github.com/matheusfdosan/matheusfdosan/blob/output/github-contribution-grid-snake-dark.svg)
+<!-- ![snake game](https://github.com/matheusfdosan/matheusfdosan/blob/output/github-contribution-grid-snake-dark.svg) -->
 
 <br>
 

@@ -1,16 +1,5 @@
 <h1>E aí 👋, sou Matheus Faustino</h1>
 
-<hr>
-
-<div>
-  <a href="https://github.com/matheusfdosan">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusfdosan&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfdosan&layout=compact&theme=dracula"/>
-  </a>
-</div>
-
-<hr>
-
 <div>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" alt="CSS3">
